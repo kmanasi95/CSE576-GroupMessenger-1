@@ -1,0 +1,4 @@
+#Tue Feb 19 19:07:20 EST 2019
+base.0=/Users/manasikulkarni/Documents/UB/Academics/SEM2/CSE586DS/Projects/PA2/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
